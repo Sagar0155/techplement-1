@@ -1242,7 +1242,7 @@ input{
 @media screen and (max-width:410px){
 
      #wood{
-         width:400px;
+        
         height: 5500px;
     }
     #wood #big .head select{
